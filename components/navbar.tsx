@@ -29,7 +29,7 @@ export default function Navbar() {
           <Link href="/" className="mr-6">
             <Image
               src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Stephy%20New%20logo%20V1%20white%20icon%20only-iFwehHAJvU6gRmO2k3Pw7BI16hgD0K.png"
-              alt="Stephy Ongueira Logo"
+              alt="Stephy Longueira Logo"
               width={40}
               height={40}
               className="object-contain"

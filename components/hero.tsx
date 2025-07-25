@@ -26,7 +26,7 @@ export default function Hero() {
       >
         <Image
           src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Stephy%20Website%20top%20image%20JPEG.jpg-kWHKbFlX0JxxDk5KXGze1WsuUlJORE.jpeg"
-          alt="DJ Stephy Ongueira"
+          alt="DJ Stephy Longueira"
           fill
           priority
           className="object-cover scale-110"
@@ -43,7 +43,7 @@ export default function Hero() {
       >
         <Image
           src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Stephy%20New%20logo%20V1%20white-yTscy2yrNgaATBqymjZ5ceogrqg84p.png"
-          alt="Stephy Ongueira Logo"
+          alt="Stephy Longueira Logo"
           width={300}
           height={200}
           className="object-contain"

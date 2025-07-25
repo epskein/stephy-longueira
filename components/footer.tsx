@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="w-[150px]">
             <Image
               src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Stephy%20New%20logo%20V1%20white-yTscy2yrNgaATBqymjZ5ceogrqg84p.png"
-              alt="Stephy Ongueira Logo"
+              alt="Stephy Longueira Logo"
               width={150}
               height={100}
               className="object-contain"
@@ -66,7 +66,7 @@ export default function Footer() {
           </div>
 
           <div className="text-center text-gray-500 text-sm">
-            <p>© {new Date().getFullYear()} Stephy Ongueira. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} Stephy Longueira. All rights reserved.</p>
           </div>
         </div>
       </div>

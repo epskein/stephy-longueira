@@ -9,7 +9,7 @@ export default function About() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-lg text-gray-300">
-              Stephy Ongueira is an internationally acclaimed DJ and producer known for her unique blend of electronic
+              Stephy Longueira is an internationally acclaimed DJ and producer known for her unique blend of electronic
               music genres and captivating performances.
             </p>
             <p className="text-lg text-gray-300">
